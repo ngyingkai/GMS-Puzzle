@@ -88,7 +88,6 @@ function search(text) {
         ["22", "phantom", "eunwol", "luminous", "aran", "evan", "mercedes", "hero"],
         ["23", "savage", "terminal", "crow", "rubbish", "junk"],
         ["24", "5000", "cake", "lucid", "hero", "kinesis", "orchid", "cake", "lotus", "damien", "blaster", "xenon", "luminous", "phantom", "aran", "pink bean", "lucid"],
-        ["25", "pink bean", "von", "leon", "evan", "pig", "orange mushroom", "pepe", "ickhart"],
         ["26", "mushroom", "cloud", "smoke", "bomb", "atomic"],
         ["27", "moras", "fish", "flying"],
         ["28", "skyline", "three", "3", "sun", "building"],
@@ -103,14 +102,22 @@ function search(text) {
         ["37", "pink", "bean", "yeti", "orange", "mushroom", "slime", "race", "track", "school", "trohpy", "gold"],
         ["38", "pink", "bean", "yeti", "orange", "mushroom", "slime", "halloween", "pumpkin", "trick", "treat", "spirit"],
         ["39", "pink", "bean", "yeti", "orange", "mushroom", "slime", "", "stocking", "present", "spirit", "fireplace", "snow", "christmas"],
-        ["51", "13", "mapleverse", "angelic", "buster", "buster", "kaiser"],
-        ["52", "christmas", "hero", "mercedes", "aran", "phantom", "luminous", "evan", "eunwol", "kanna", "hayato", "lantern", "slime"],
         ["53", "beautyroid"],
         ["54", "hayato"],
         ["55", "kanna", "haku"],
         ["56", "hayato", "princess", "sakuno"],
         ["57", "kanna", "haku"],
-        ["58", "purrfect", "ranger", "cat"]
+        ["61", "beast", "tamer","forest","bear","leopard"],
+        ["62", "jett"],
+        ["63", "ho", "young", "hoyoung"],
+        ["64", "ark"],
+        ["65", "13", "star squad", "star", "squad", "angelic", "buster", "buster", "kaiser"],
+        ["66", "mechanical", "hearts", "mechanical hearts"],
+        ["67", "jett"],
+        ["68", "beast", "tamer","forest","bear","leopard"],
+        ["69", "akechi"],
+        ["70", "14", "pink bean", "von", "leon", "evan", "pig", "orange mushroom", "pepe", "ickhart"],
+        ["71", "thursday", "12", "beware"]
     ]
 
     var tmp = []
